@@ -1,0 +1,74 @@
+<?
+/*---------------------------------------------
+Defines dictionary words for different locales.
+Created by Andrés Rabinovich (Pampa Works).
+---------------------------------------------*/
+$garrDictionary['index_message'] = 'Seleccione un ítem del menú para continuar.';
+$garrDictionary['unauthorized_access'] = 'Acceso no autorizado';
+$garrDictionary['incorrect_username'] = 'Usuario o clave incorrectos';
+$garrDictionary['id_yourself'] = 'Por favor ingrese su usuario y clave';
+$garrDictionary['username'] = 'Usuario';
+$garrDictionary['password'] = 'Contraseña';
+$garrDictionary['log_in'] = 'OK !';
+$garrDictionary['confirm_delete'] = '¿Está seguro que desea borrar los registros seleccionados?';
+$garrDictionary['from'] = 'desde';
+$garrDictionary['to'] = 'hasta';
+$garrDictionary['select'] = '-- Seleccione --';
+$garrDictionary['ascending_order'] = 'Orden ascendente';
+$garrDictionary['descending_order'] = 'Orden descendente';
+$garrDictionary['delete'] = 'Borrar';
+$garrDictionary['yes'] = 'SI';
+$garrDictionary['no'] = 'NO';
+$garrDictionary['showing'] = 'Mostrando';
+$garrDictionary['of'] = 'de';
+$garrDictionary['records'] = 'registros';
+$garrDictionary['no_results'] = 'La búsqueda no devolvió ningún resultado.';
+$garrDictionary['new'] = 'Nuevo';
+$garrDictionary['search'] = 'Buscar';
+$garrDictionary['record_updated'] = 'El registro se modificó correctamente.';
+$garrDictionary['record_to_update_already_exists'] = 'El registro que está intentando modificar ya existe en la base de datos.';
+$garrDictionary['record_inserted'] = 'El registro se insertó correctamente';
+$garrDictionary['record_to_insert_already_exists'] = 'El registro que está intentando insertar ya existe en la base de datos.';
+$garrDictionary['records_deleted'] = ' registros borrados correctamente';
+$garrDictionary['record_deleted'] = ' registro borrado correctamente';
+$garrDictionary['retype'] = 'Reingrese';
+$garrDictionary['cancel'] = 'Cancelar';
+$garrDictionary['save'] = 'Grabar';
+$garrDictionary['cant_be_empty'] = ' no puede estar vacío';
+$garrDictionary['maximum_size_reached'] = 'Debe ser';
+$garrDictionary['characters'] = 'caracteres';
+$garrDictionary['must_be_string'] = 'debe ser una cadena de caracteres';
+$garrDictionary['and_retype'] = ' y Reingrese ';
+$garrDictionary['must_match'] = ' deben coincidir';
+$garrDictionary['must_be_date'] = 'tiene que ser una fecha yyyy-mm-dd';
+$garrDictionary['must_be_integer'] = 'tiene que ser un número entero';
+$garrDictionary['must_be_number'] = 'tiene que ser un número';
+$garrDictionary['must_be_boolean'] = 'tiene que ser booleano';
+$garrDictionary['must_be_email'] = 'tiene que ser un E-Mail';
+$garrDictionary['open_all'] = 'abrir todas';
+$garrDictionary['close_all'] = 'cerrar todas';
+$garrDictionary['clickToUpdateRow'] = 'Click para editar el registro';
+$garrDictionary['edit'] = 'Editar';
+$garrDictionary['page'] = 'Página';
+$garrDictionary['clickToDownloadFile'] = 'Click aquí para descargar archivo';
+$garrDictionary['clickToManageRelatedModule'] = 'Click aquí para administrar registros relacionados';
+$garrDictionary['send'] = 'Enviar';
+$garrDictionary['clickToSendEmails'] = 'Click aquí para enviar el email';
+$garrDictionary['confirm_update'] = '¿Esta seguro que desea modificar los registros?';
+$garrDictionary['records_updated'] = ' registros modificados correctamente';
+$garrDictionary['click_to_open_calendar'] = 'Click para seleccionar una fecha';
+$garrDictionary['click_to_clear'] = 'Click para borrar la selección de fecha';
+$garrDictionary['click_to_show_page_number'] = "Click para ver página número ";
+$garrDictionary['admin_title'] = "Administración de ";
+$garrDictionary['update_title'] = "Modificación de ";
+$garrDictionary['insert_title'] = "Ingreso de ";
+$garrDictionary['reset_search'] = "Limpiar búsqueda";
+$garrDictionary['upload_max_filesize'] = "El tamaño máximo de subida de archivos es de ";
+$garrDictionary['for_each_file'] = " por archivo.";
+$garrDictionary['export'] = "Exportar";
+$garrDictionary['select_items_for_export'] = "Por favor elija al menos un item para exportar";
+$garrDictionary['chose_export_method'] = "¿Desea exportar a excel o visualizar el reporte?";
+$garrDictionary['may_close_window'] = "Al finalizar la descarga puede cerrar esta ventana";
+$garrDictionary['excel'] = "Excel";
+$garrDictionary['report'] = "Reporte";
+?>
